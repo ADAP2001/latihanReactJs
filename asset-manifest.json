@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/latihanReactJs/static/css/main.431ed753.css",
+    "main.js": "/latihanReactJs/static/js/main.027dc4f4.js",
+    "static/js/787.289dbee4.chunk.js": "/latihanReactJs/static/js/787.289dbee4.chunk.js",
+    "index.html": "/latihanReactJs/index.html",
+    "main.431ed753.css.map": "/latihanReactJs/static/css/main.431ed753.css.map",
+    "main.027dc4f4.js.map": "/latihanReactJs/static/js/main.027dc4f4.js.map",
+    "787.289dbee4.chunk.js.map": "/latihanReactJs/static/js/787.289dbee4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.431ed753.css",
+    "static/js/main.027dc4f4.js"
+  ]
+}
